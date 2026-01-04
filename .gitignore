@@ -15,6 +15,7 @@ obj/
 # SQL Server debug files
 *.dbmdl
 *.sqlcmdvars
+*.db
 
 # Visual Studio settings
 .vs/
@@ -29,3 +30,6 @@ obj/
 *.bak
 *.log
 
+#Virtual environments
+.venv
+venv
